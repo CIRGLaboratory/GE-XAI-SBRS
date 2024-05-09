@@ -1,2 +1,2 @@
 # GE-XAI-SBRS
-Grammatical Evolution for eXplainable Artificial Intelligence in Session-based Recommender Systems
+This is the repository for the GECCO 2024 paper "Explaining Session-based Recommendations using Grammatical Evolution" (Workshop on Evolutionary Computing and Explainable Artificial Intelligence).
